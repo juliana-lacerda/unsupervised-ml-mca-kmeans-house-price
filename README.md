@@ -1,5 +1,5 @@
 # unsupervised-ml-mca-kmeans-house-price
-Unsupervised learning applied to a house price data set with numeric and categorical features.
+Unsupervised machine learning applied to a house price data set with numeric and categorical features.
 
 The data set is composed of qualitative and quantitative features related to houses along with the property value (target). The target variable is removed from the data set as a unsupervised techniques are performed and the target is used only in the end to validade the models' output.
 
